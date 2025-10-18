@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-scraper",
+  "version": "1.0.0",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0",
+    "dotenv": "^16.0.3"
+  }
+}
